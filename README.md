@@ -3,7 +3,7 @@
     <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
   </a>
 
-  <h3 align="center">Logo</h3>
+  <h3 align="center">Your Logo here</h3>
 
   <p align="center">
     Short description
@@ -32,6 +32,7 @@ If you don’t havee any of these tools installed already, you will need to:
 ```
  Download and install git
  Download and install nodejs https://nodejs.org
+ Any other tool that your project depends on
 ```
 
 ### Get Started
@@ -39,7 +40,7 @@ If you don’t havee any of these tools installed already, you will need to:
 You will need to clone source code of client GitHub repository. To do this open console and execute following lines:
 
 ```shell
-git clone https://github.com/Ogui99/Flow-backend.git
+git clone https://github.com/[username]/[project-repo].git
 ```
 
 ### Installing Node Modules
@@ -47,7 +48,7 @@ git clone https://github.com/Ogui99/Flow-backend.git
 You will need to clone source code of client GitHub repository. To do this open console and execute following lines:
 
 ```
- cd Flow-backend
+ cd [project-repo]
  npm install
 ```
 
@@ -82,11 +83,11 @@ require('custom-env').env('prod');
 
 ## Status
 
-Flow is in developmennt process
+[project-repo] is in developmennt process
 
 ## What's included
 
-Here is the folder structure
+Here is the folder structure (_change this structure to the structure of your project_)
 
 ```text
 ├───config
@@ -110,7 +111,7 @@ Here is the folder structure
 
 ## Bugs and feature requests
 
-Have a bug or a feature request? Please first read the [issues]() and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue]().
+Have a bug or a feature request? Please first read the [issues]() (insert link if available) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](). (insert link if available)
 
 ## Contributing
 
@@ -128,7 +129,7 @@ Moreover, all Javascript should conform to the [Code Guide](), maintained by [st
 
 ## Thanks
 
-Thanks to the team
+Thanks to the team (list your team mates here)
 
 ## Copyright and license
 
