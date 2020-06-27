@@ -133,4 +133,5 @@ Thanks to the team (list your team mates here)
 
 ## Copyright and license
 
+Thank you [@OmarBelguith](https://github.com/OmarBelguith) for providing us with these files
 Enjoy :metal:
